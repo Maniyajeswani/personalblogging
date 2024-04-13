@@ -1,0 +1,25 @@
+.first{
+    font-weight: bold;
+}
+.second{
+    font-size: xx-large;
+}
+.second p{
+    font-size: medium;
+    font-family: sans-serif;
+
+}
+.line{
+    list-style: bold;
+}
+.image{
+    display: flex;
+}
+.image2{
+    width: 400px;
+    height: 200px;
+}
+.image3{
+    width: 400px;
+    height: 200px;
+}
